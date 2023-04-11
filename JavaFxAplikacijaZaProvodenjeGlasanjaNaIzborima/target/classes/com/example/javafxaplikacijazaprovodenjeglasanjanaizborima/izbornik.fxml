@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="18.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javafxaplikacijazaprovodenjeglasanjanaizborima.IzbornikController">
+   <children>
+      <MenuBar layoutY="-2.0" prefHeight="29.0" prefWidth="600.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="Glasaci">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#showGlasacSearchScreen" text="Pretraga" />
+                <MenuItem mnemonicParsing="false" onAction="#showAddGlasac" text="Unos" />
+                <MenuItem mnemonicParsing="false" onAction="#showDeleteGlasac" text="Brisanje" />
+
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Stranke">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#showStrankaSearchScreen" text="Pretraga" />
+                <MenuItem mnemonicParsing="false" onAction="#showAddStranka" text="Unos" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Politicari">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#showPoliticarSearchScreen" text="Pretraga" />
+                <MenuItem mnemonicParsing="false" onAction="#showAddPoliticara" text="Unos" />
+
+            </items>
+          </Menu>
+            <Menu mnemonicParsing="false" text="Glasanje">
+                <items>
+                    <MenuItem mnemonicParsing="false" onAction="#choosePoliticarVote" text="Glasanje" />
+
+                </items>
+            </Menu>
+
+        </menus>
+      </MenuBar>
+   </children>
+</AnchorPane>

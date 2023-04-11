@@ -1,0 +1,11 @@
+2023-02-15 19:29:08,281 INFO [main] c.e.j.Main [Main.java:35] Example log from Main
+2023-02-15 19:29:17,092 ERROR [main] c.e.j.Main [Main.java:50] Unesen krivi tip podatka -> InputMismatchException java.util.InputMismatchException
+2023-02-15 19:29:18,874 ERROR [main] c.e.j.Main [Main.java:50] Unesen krivi tip podatka -> InputMismatchException java.util.InputMismatchException
+2023-02-15 19:29:19,842 ERROR [main] c.e.j.Main [Main.java:50] Unesen krivi tip podatka -> InputMismatchException java.util.InputMismatchException
+2023-02-15 19:29:21,042 ERROR [main] c.e.j.Main [Main.java:50] Unesen krivi tip podatka -> InputMismatchException java.util.InputMismatchException
+2023-02-15 19:29:21,811 ERROR [main] c.e.j.Main [Main.java:50] Unesen krivi tip podatka -> InputMismatchException java.util.InputMismatchException
+2023-02-15 19:29:22,441 ERROR [main] c.e.j.Main [Main.java:50] Unesen krivi tip podatka -> InputMismatchException java.util.InputMismatchException
+2023-02-15 19:29:23,021 ERROR [main] c.e.j.Main [Main.java:50] Unesen krivi tip podatka -> InputMismatchException java.util.InputMismatchException
+2023-02-15 19:29:24,087 ERROR [main] c.e.j.Main [Main.java:50] Unesen krivi tip podatka -> InputMismatchException java.util.InputMismatchException
+2023-02-15 19:29:24,910 ERROR [main] c.e.j.Main [Main.java:50] Unesen krivi tip podatka -> InputMismatchException java.util.InputMismatchException
+2023-02-15 19:29:25,949 ERROR [main] c.e.j.Main [Main.java:50] Unesen krivi tip podatka -> InputMismatchException java.util.InputMismatchException
